@@ -8,7 +8,7 @@
   }
   body{
 
-    background-image: url(images/Sparkles-bg.png);
+    background-image: url(images/sparkles-bg.pngd);
     background-size: cover;
    
 }
@@ -61,7 +61,7 @@ div{
 
 @font-face {
     font-family:Fancy;
-    src: url(Fonts/Ruigslay.ttf) format('truetype');
+    src: url(Fonts/ruigslay.ttf) format('truetype');
     font-weight:bold;
 }
 
