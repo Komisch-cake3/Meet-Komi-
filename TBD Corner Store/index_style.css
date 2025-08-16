@@ -1,0 +1,91 @@
+ html{
+    height:100%;
+}
+
+  .container{
+
+
+  }
+  body{
+
+    background-image: url(images/Sparkles-bg.png);
+    background-size: cover;
+   
+}
+
+  
+  main{
+            background-color:#c0c0ff ;
+                width: 750px;
+                height: 950px;
+                padding-left:100px;
+                padding-right:100px;
+                margin:auto;
+  }
+ nav{         
+         background-color:#6c6cf138 ;
+        width: 750px;
+    height: 50px; 
+          margin: auto;
+          text-align: center;
+          padding-top: 25px;
+
+        }
+
+article{
+
+  border-radius: 25px;
+  background: #ffffff;
+  width: 750px;
+  height: 350px;
+  margin:auto;
+  padding-top: ;
+  padding-bottom: 200px;
+  
+}
+
+summary{
+
+    background:#c0c0ff;
+    width: 100px;
+    height: 50px;
+}
+
+
+div{
+    width:
+        height: 500px;
+    text-align:center;
+}
+    
+
+@font-face {
+    font-family:Fancy;
+    src: url(Fonts/Ruigslay.ttf) format('truetype');
+    font-weight:bold;
+}
+
+
+h1 {
+    font-family: "fancy";
+    color: white;
+    font-size: 75px;
+    text-align: center;
+    font-weight: normal;
+    padding-top: 50px;
+}
+
+.youtube {
+shape-image-threshold:calc(50px) ;
+    height:50px;
+    width: 50px;
+}
+
+a{ 
+    color:white;
+    text-decoration: none;
+    font-size:20px;
+    padding-left:10px;
+    padding-right: 10px;
+    text-align: center;
+}
